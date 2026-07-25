@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+  <title>meu primeiro site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>conheça tops 5 as melhores borrachas de tenis de mesa</h2>
+  <h1>primeiro:dignics 09c</h1>
+  <a href="https://share.google/y4TkDtgXOjv5YIvAh" target="_blank">Clique aqui para ver a foto da Dignics 09c</a>
+  <p>é uma borracha híbrida de tênis de mesa da Butterfly que combina alta aderência para gerar muito efeito com a tecnologia Spring Sponge X para máxima potência.</p>
+  <p>Ela é ideal para jogadores ofensivos que buscam o máximo de controle no jogo curto e alta rotação nos ataques de topspin.</p>
+  <p>Utilizada por atletas de nível mundial, ela exige boa técnica para extrair todo o seu potencial de velocidade e precisão.</p>
+  <h1>zyre-03</h1> 
+<a href="https://share.google/cpTzg93Sediktrfgw"_blank">Clique aqui para ver a foto da Zyre-03</a>
+
+  <p>A Zyre 03 é uma borracha revolucionária da Butterfly que traz a tecnologia Ricosheet para gerar arcos mais altos e rotações extremas nos ataques.</p>
+<p>Combinada com a esponja Spring Sponge X, ela oferece durabilidade superior e potência máxima para quem busca dominar os ralis ofensivos.</p>
+<p>Projetada para atletas de alta performance, ela proporciona um tempo de contato maior com a bola sem perder o controle no jogo curto.</p>
+<h1>Tenegy 05</h1>
+<a href="https://share.google/sM6CZ46ZgDMu0YhHP" target="_blank">Clique aqui para ver a foto da Tenergy 05</a>
+<p>A Tenergy 05 é a borracha mais lendária da Butterfly. Com a tecnologia Spring Sponge, ela oferece uma aderência incrível na superfície e é perfeita para jogadores que priorizam o ataque com muito efeito (topspin) e alta velocidade.
+</p>
+<h1>Rakza 7</h1>
+<a href="https://share.google/b1JYAeGZJSCYhngGB"
+target="_blank">Clique aqui para ver a foto da Rakza 7</a>
+<p>A Rakza 7 da Yasaka é uma das borrachas mais populares e equilibradas do mundo. Ela utiliza borracha natural na superfície, o que garante excelente controle, ótima durabilidade e um alto nível de rotação, sendo ideal para atacantes de todos os níveis.</p>
+<h1>Hyrricane 3 neo</h1>
+<a href="Https://share.google/IOcGfeq37bxyOIGdx" target="_blank">Clique aqui para ver a foto</a>
+  <p>A Hurricane 3 Neo da DHS é a borracha chinesa mais famosa de todas, usada por campeões olímpicos. Ela tem uma superfície extremamente pegajosa (tacky) que permite gerar um efeito devastador e um controle absurdo no jogo curto, exigindo força do jogador para disparar golpes potentes.</p>
+  <script src="script.js"></script>
+</body>
+</html>
